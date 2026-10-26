@@ -56,7 +56,12 @@ jobs:
           key: ${{ runner.os }}-mutants-${{ hashFiles('Cargo.lock') }}
 
       - name: Install cargo-mutants
-        run: cargo install --locked cargo-mutants
+        run: |
+          if ! command -v cargo-mutants &> /dev/null; then
+            cargo install --locked cargo-mutants
+          else
+            echo "cargo-mutants already cached"
+          fi
 
       - name: Mutation testing
         run: cargo mutants --all-features -v2 --exclude file src/main.rs 2>&1 | tee mutants.log
