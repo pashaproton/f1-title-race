@@ -1,7 +1,7 @@
 # f1-title-race
 
-[![CI](https://github.com/<you>/f1-title-race/actions/workflows/ci.yml/badge.svg?branch=main&job=test)](https://github.com/<you>/f1-title-race/actions/workflows/ci.yml)
-[![Mutation tests](https://github.com/<you>/f1-title-race/actions/workflows/ci.yml/badge.svg?branch=main&job=mutants)](https://github.com/<you>/f1-title-race/actions/workflows/ci.yml)
+[![CI](https://github.com/pashaproton/f1-title-race/actions/workflows/ci.yaml/badge.svg?branch=main&job=test)](https://github.com/pashaproton/f1-title-race/actions/workflows/ci.yaml)
+[![Mutation tests](https://github.com/pashaproton/f1-title-race/actions/workflows/ci.yaml/badge.svg?branch=main&job=mutants)](https://github.com/pashaproton/f1-title-race/actions/workflows/ci.yaml)
 
 A command-line F1 championship standings tracker.
 
