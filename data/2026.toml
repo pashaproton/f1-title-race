@@ -1,0 +1,121 @@
+race_points = [25, 18, 15, 12, 10, 8, 6, 4, 2, 1]
+
+sprint_points = [8, 7, 6, 5, 4, 3, 2, 1]
+
+drivers = [ "Kimi Antonelli", "George Russell", "Lewis Hamilton", "Max Verstappen", "Charles Leclerc", "Lando Norris", "Oscar Piastri", "Isack Hadjar", "Liam Lawson", "Pierre Gasly", "Arvid Lindblad", "Franco Colapinto", "Oliver Bearman", "Nico Hulkenberg", "Gabriel Bortoleto", "Esteban Ocon", "Fernando Alonso", "Carlos Sainz", "Alexander Albon", "Yuki Tsunoda", "Lance Stroll", "Valtteri Bottas", "Sergio Perez"]
+
+[[races]]
+name = "Australia"
+sprint = false
+race_result = [ "George Russell", "Kimi Antonelli", "Charles Leclerc", "Lewis Hamilton", "Lando Norris", "Max Verstappen", "Oliver Bearman", "Arvid Lindblad", "Gabriel Bortoleto", "Pierre Gasly"]
+
+[[races]]
+name = "China"
+sprint = true
+race_result = [ "Kimi Antonelli", "George Russell", "Lewis Hamilton", "Charles Leclerc", "Oliver Bearman", "Pierre Gasly", "Liam Lawson", "Isack Hadjar", "Carlos Sainz", "Franco Colapinto"]
+sprint_result = [ "George Russell", "Charles Leclerc", "Lewis Hamilton", "Lando Norris", "Kimi Antonelli", "Oscar Piastri", "Liam Lawson", "Oliver Bearman"]
+
+[[races]]
+name = "Japan"
+sprint = false
+race_result = [ "Kimi Antonelli", "Oscar Piastri", "Charles Leclerc", "George Russell", "Lando Norris", "Lewis Hamilton", "Pierre Gasly", "Max Verstappen", "Liam Lawson", "Esteban Ocon"]
+
+[[races]]
+name = "Miami"
+sprint = true
+race_result = [ "Kimi Antonelli", "Lando Norris", "Oscar Piastri", "George Russell", "Max Verstappen", "Lewis Hamilton", "Franco Colapinto", "Charles Leclerc", "Carlos Sainz", "Alexander Albon"]
+sprint_result = [ "Lando Norris", "Oscar Piastri", "Charles Leclerc", "George Russell", "Max Verstappen", "Kimi Antonelli", "Lewis Hamilton", "Pierre Gasly"]
+
+[[races]]
+name = "Canada"
+sprint = true
+race_result = [ "Kimi Antonelli", "Lewis Hamilton", "Max Verstappen", "Charles Leclerc", "Isack Hadjar", "Franco Colapinto", "Liam Lawson", "Pierre Gasly", "Carlos Sainz", "Oliver Bearman"]
+sprint_result = [ "George Russell", "Lando Norris", "Kimi Antonelli", "Oscar Piastri", "Charles Leclerc", "Lewis Hamilton", "Max Verstappen", "Arvid Lindblad"]
+
+[[races]]
+name = "Monaco"
+sprint = false
+race_result = [ "Kimi Antonelli", "Lewis Hamilton", "Isack Hadjar", "Oscar Piastri", "Liam Lawson", "Arvid Lindblad", "Pierre Gasly", "Alexander Albon", "Esteban Ocon", "Fernando Alonso"]
+
+[[races]]
+name = "Barcelona-Catalunya"
+sprint = false
+race_result = [ "Lewis Hamilton", "George Russell", "Lando Norris", "Max Verstappen", "Oscar Piastri", "Isack Hadjar", "Pierre Gasly", "Liam Lawson", "Arvid Lindblad", "Franco Colapinto"]
+
+[[races]]
+name = "Austria"
+sprint = false
+race_result = [ "George Russell", "Max Verstappen", "Kimi Antonelli", "Oscar Piastri", "Lewis Hamilton", "Isack Hadjar", "Lando Norris", "Charles Leclerc", "Liam Lawson", "Arvid Lindblad"]
+
+[[races]]
+name = "Great Britain"
+sprint = true
+race_result = [ "Charles Leclerc", "George Russell", "Lewis Hamilton", "Lando Norris", "Isack Hadjar", "Liam Lawson", "Arvid Lindblad", "Gabriel Bortoleto", "Franco Colapinto", "Pierre Gasly"]
+sprint_result = [ "Kimi Antonelli", "Lewis Hamilton", "Lando Norris", "George Russell", "Charles Leclerc", "Max Verstappen", "Oscar Piastri", "Liam Lawson"]
+
+[[races]]
+name = "Belgium"
+sprint = false
+race_result = [ "Kimi Antonelli", "Charles Leclerc", "Max Verstappen", "Lewis Hamilton", "Oscar Piastri", "Isack Hadjar", "Lando Norris", "Gabriel Bortoleto", "Arvid Lindblad", "Franco Colapinto"]
+
+[[races]]
+name = "Hungary"
+sprint = false
+race_result = [ "Lando Norris", "Max Verstappen", "Kimi Antonelli", "Charles Leclerc", "Lewis Hamilton", "Isack Hadjar", "George Russell", "Liam Lawson", "Nico Hulkenberg", "Arvid Lindblad"]
+
+[[races]]
+name = "Nederlands"
+sprint = true
+race_result = [ "Lando Norris", "Kimi Antonelli", "George Russell", "Lewis Hamilton", "Charles Leclerc", "Oscar Piastri", "Liam Lawson", "Nico Hulkenberg", "Fernando Alonso", "Pierre Gasly"]
+sprint_result = [ "George Russell", "Charles Leclerc", "Lando Norris", "Kimi Antonelli", "Oscar Piastri", "Max Verstappen", "Lewis Hamilton", "Pierre Gasly"]
+
+[[races]]
+name = "Italy"
+sprint = false
+race_result = [ "Kimi Antonelli", "George Russell", "Max Verstappen", "Lando Norris", "Oscar Piastri", "Lewis Hamilton", "Pierre Gasly", "Arvid Lindblad", "Franco Colapinto", "Yuki Tsunoda"]
+
+[[races]]
+name = "Spain"
+sprint = false
+race_result = [ "Kimi Antonelli", "Max Verstappen", "Lando Norris", "Charles Leclerc", "George Russell", "Liam Lawson", "Franco Colapinto", "Oscar Piastri", "Arvid Lindblad", "Nico Hulkenberg"]
+
+[[races]]
+name = "Azerbaijan"
+sprint = false
+race_result = [ "George Russell", "Max Verstappen", "Isack Hadjar", "Charles Leclerc", "Kimi Antonelli", "Lewis Hamilton", "Arvid Lindblad", "Esteban Ocon", "Oliver Bearman", "Carlos Sainz"]
+
+[[races]]
+name = "Bahrain"
+sprint = false
+race_result = [ "Max Verstappen", "Kimi Antonelli", "Lewis Hamilton", "Charles Leclerc", "Isack Hadjar", "Oscar Piastri", "Liam Lawson", "Fernando Alonso", "Lando Norris", "Arvid Lindblad"]
+
+[[races]]
+name = "Singapore"
+sprint = true
+race_result = [ "Max Verstappen", "Charles Leclerc", "Kimi Antonelli", "Lando Norris", "Oscar Piastri", "Lewis Hamilton", "Liam Lawson", "Nico Hulkenberg", "George Russell", "Isack Hadjar"]
+sprint_result = [ "Max Verstappen", "Lewis Hamilton", "Charles Leclerc", "Kimi Antonelli", "Liam Lawson", "Oliver Bearman", "Nico Hulkenberg", "Lando Norris"]
+
+[[races]]
+name = "United States"
+sprint = false
+race_result = [ "Kimi Antonelli", "Charles Leclerc", "Max Verstappen", "Lewis Hamilton", "Lando Norris", "Isack Hadjar", "Oscar Piastri", "George Russell", "Liam Lawson", "Pierre Gasly"]
+
+[[races]]
+name = "Mexico"
+sprint = false
+
+[[races]]
+name = "Brasil"
+sprint = false
+
+[[races]]
+name = "Las Vegas"
+sprint = false
+
+[[races]]
+name = "Qatar"
+sprint = false
+
+[[races]]
+name = "Abu Dhabi"
+sprint = false
