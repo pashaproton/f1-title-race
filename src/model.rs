@@ -2,7 +2,7 @@ use std::{
     collections::HashMap,
     error::Error,
     fmt::{self, Debug, Display},
-    ops::{Add, AddAssign, Div, Mul, Sub},
+    ops::{Add, AddAssign, Mul},
     str::FromStr,
 };
 
