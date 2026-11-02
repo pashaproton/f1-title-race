@@ -103,6 +103,7 @@ race_result = [ "Kimi Antonelli", "Charles Leclerc", "Max Verstappen", "Lewis Ha
 [[races]]
 name = "Mexico"
 sprint = false
+race_result = [ "Max Verstappen", "Lewis Hamilton", "Kimi Antonelli", "Charles Leclerc", "Lando Norris", "George Russell", "Oscar Piastri", "Franco Colapinto", "Liam Lawson", "Pierre Gasly"]
 
 [[races]]
 name = "Brasil"
